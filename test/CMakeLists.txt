@@ -1,0 +1,4 @@
+add_subdirectory(mp1_synchronization)
+add_subdirectory(mp3_imageProcessing)
+add_subdirectory(mp4_correspondence)
+add_subdirectory(mp5_tracking)
