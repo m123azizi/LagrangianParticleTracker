@@ -18,7 +18,7 @@ This project relies on several third-party libraries and frameworks. Please refe
 | **VTK**                  | 8.2.0                  | Visualization of particle tracks and meshes      |
 | **OpenCV**               | 4.8.0                  | Image processing and camera input                |
 | **YAML-CPP**             | 0.6                    | Output file serialization in YAML                |
-| **LibTorch (PyTorch C++)** | 2.1.0+cu118         | Backend acceleration and tensor ops              |
+| **LibTorch (PyTorch C++)** | 2.1.0+cu118         | Backend acceleration and tensor ops (for future)  |
 | **OptiTrack Camera SDK** | 2.3.1 or 3.1.0         | For OptiTrack camera support                     |
 
 📄 **Full details, screenshots, and configuration tips are available in the PDF guide below.**
